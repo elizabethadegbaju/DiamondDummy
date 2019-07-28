@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Diamond Dummy</string>
+    <string name="register">Register</string>
+    <string name="forgot_login_details">Forgot Login Details</string>
+    <string name="quick_transfer">Quick Transfer</string>
+    <string name="changed_device">Changed Device</string>
+    <string name="quick_bill_payment">Quick Bill Payment</string>
+    <string name="open_an_account">Open an Account</string>
+    <string name="quick_loans">Quick Loans</string>
+    <string name="internet_banking">Internet Banking</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
