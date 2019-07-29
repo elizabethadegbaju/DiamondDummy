@@ -10,4 +10,16 @@
     <string name="internet_banking">Internet Banking</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
+    <string name="lemon_background">lemon background</string>
+    <string name="mail">mail</string>
+    <string name="notifications">notifications</string>
+    <string name="_4">4</string>
+    <string name="switch_country">Switch country</string>
+    <string name="back">back</string>
+    <string name="nigerian_flag">nigerian flag</string>
+    <string name="open_padlock">open padlock</string>
+    <string name="sign_in">Sign In</string>
+    <string name="save_banking_id">Save banking ID</string>
+    <string name="help">Help</string>
+    <string name="network">network</string>
 </resources>
